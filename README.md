@@ -3,7 +3,7 @@
 - 🌱 I’m a second-year PhD. Candidate in [THU CoAI Group](http://coai.cs.tsinghua.edu.cn/).
 - 🔭 I’m interested in research of open-domain dialog system
 - 📫 How to reach me: [Email](chujiezhengchn@gmail.com) or [Homepage](https://chujiezheng.github.io/).
-- ⚡ Fun fact: Loving music, animation, sports.
+- ⚡ Fun fact: Loving music, animation, and sports.
 
 <a href="https://chujiezheng.github.io/">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=chujiezheng&count_private=true&show_icons=true" />
