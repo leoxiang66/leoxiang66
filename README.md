@@ -9,11 +9,9 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=chujiezheng&count_private=true&show_icons=true" />
 </a>  
 
-<!--
 <a href="https://chujiezheng.github.io/">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chujiezheng&hide=HTML,PostScript,JavaScript,Java,CSS&layout=compact" />
 </a>
--->
 
 
 <!--
