@@ -18,7 +18,9 @@
 
 ## Visitors
 
-![Visitor Count](https://profile-counter.glitch.me/chujiezheng/count.svg)
+<a href="https://chujiezheng.github.io/">
+    <img align="left" src="https://profile-counter.glitch.me/chujiezheng/count.svg" />
+</a>
 
 
 <!--
