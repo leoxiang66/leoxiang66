@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Chujie Zheng.
 
-- 🌱 I’m a second-year PhD. Candidate in [THU CoAI Group](http://coai.cs.tsinghua.edu.cn/).
-- 🔭 I’m interested in research of open-domain dialog system
+- 🌱 I’m a second-year PhD. student in [THU CoAI Group](http://coai.cs.tsinghua.edu.cn/).
+- 🔭 I’m interested in research of open-domain dialogue systems.
 - 📫 How to reach me: [Email](chujiezhengchn@gmail.com) or [Homepage](https://chujiezheng.github.io/).
 - ⚡ Fun fact: Loving music, animation, and sports.
 
