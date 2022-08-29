@@ -7,9 +7,9 @@
 
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=chujiezheng&count_private=true&show_icons=true&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=leoxiang66&count_private=true&show_icons=true&layout=compact" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chujiezheng&hide=HTML,PostScript,JavaScript,Java,CSS&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoxiang66&hide=HTML,PostScript,JavaScript,Java,CSS&layout=compact" />
 
 ## Visitors
 
