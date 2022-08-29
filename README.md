@@ -2,7 +2,7 @@
 
 - 🌱 I’m a second-year Master Sc. CS student at [TUM](https://www.tum.de/).
 - 🔭 I’m interested in research of open-domain dialogue systems.
-- 📫 How to reach me: [Email](mailto: tao.xiang@tum.de) or [Homepage](https://leoxiang66.github.io/).
+- 📫 How to reach me: [Email](mailto:tao.xiang@tum.de) or [Homepage](https://leoxiang66.github.io/).
 - ⚡ Fun fact: Loving music, animation, and sports.
 
 ## Github Stats
