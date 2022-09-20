@@ -18,7 +18,7 @@
 
 ## GitHub Projects Overview
 ![](https://i.imgur.com/T5rCXJe.png)
-To see the original mind map --> [mind map](https://mm.tt/map/2425653406)
+[[Original Mind Map](https://mm.tt/map/2425653406)]
 
 <!--
 
