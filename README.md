@@ -5,18 +5,18 @@
 - 📫 How to reach me: [Email](mailto:tao.xiang@tum.de) or [Homepage](https://leoxiang66.github.io/).
 - ⚡ Fun fact: Loving music, animation, and sports.
 
-## Github Stats
+## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=leoxiang66&count_private=true&show_icons=true&layout=compact" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoxiang66&hide=HTML,PostScript,JavaScript,Java,CSS&" />
 
-## Visitors
+<!-- ## Visitors
 
-<img src="https://profile-counter.glitch.me/leoxiang66/count.svg" />
+<img src="https://profile-counter.glitch.me/leoxiang66/count.svg" /> -->
 
 
-## Github Projects Overview
+## GitHub Projects Overview
 ![](https://i.imgur.com/T5rCXJe.png)
 To see the original mind map --> [mind map](https://mm.tt/map/2425653406)
 
