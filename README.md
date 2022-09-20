@@ -16,6 +16,10 @@
 <img src="https://profile-counter.glitch.me/leoxiang66/count.svg" />
 
 
+## Github Projects Overview
+![](https://i.imgur.com/T5rCXJe.png)
+To see the original mind map --> [mind map](https://mm.tt/map/2425653406)
+
 <!--
 
 - 🔭 I’m currently working on ...
