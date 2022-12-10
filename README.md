@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Tao Xiang.
 
 - 🌱 I’m a second-year M. Sc. CS student at [TUM](https://www.tum.de/).
-- 🔭 I’m interested in research of open-domain dialogue systems.
+- 🔭 I’m interested in research of conversational-AI, multimodality.
 - 📫 How to reach me: [Email](mailto:tao.xiang@tum.de) or [Homepage](https://leoxiang66.github.io/).
 - ⚡ Fun fact: Loving music, animation, and sports.
 
