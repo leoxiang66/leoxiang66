@@ -16,9 +16,6 @@
 <img src="https://profile-counter.glitch.me/leoxiang66/count.svg" /> -->
 
 
-## GitHub Projects Overview
-![](https://i.imgur.com/2ydLXXq.png)
-[[Original Mind Map](https://mm.tt/map/2425653406)]
 
 <!--
 
