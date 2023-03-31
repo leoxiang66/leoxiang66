@@ -15,6 +15,16 @@
 
 <img src="https://profile-counter.glitch.me/leoxiang66/count.svg" /> -->
 
+## Publication
+[[ORCID Profile](https://orcid.org/0000-0001-6217-6560)]
+
+## Organization
+[[Memomind](https://memomind.cn/)]
+
+## Products
+- [text2music](https://app.memomind.cn/text2music/)
+- [TrendFlow](https://huggingface.co/spaces/Adapting/TrendFlow)
+
 
 
 
