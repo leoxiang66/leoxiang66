@@ -24,7 +24,7 @@
 ## Products
 - [text2music](https://app.memomind.cn/text2music/)
 - [TrendFlow](https://huggingface.co/spaces/Adapting/TrendFlow)
-- [PEER - ](https://github.com/Kasneci-Lab/AI-assisted-writing)
+- [PEER - PAPER EVALUATION AND EMPOWERMENT RESOURCE](https://github.com/Kasneci-Lab/AI-assisted-writing)
 
 
 
