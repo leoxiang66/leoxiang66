@@ -29,6 +29,10 @@
   - Role: Researcher & Lead Developer
 - [PEER - PAPER EVALUATION AND EMPOWERMENT RESOURCE](https://github.com/Kasneci-Lab/AI-assisted-writing)
   - Role: Co-developer
+- [ChatPPT - Chat with Any Slide](https://chatppt.memomind.cn/)
+  - Role: Lead Developer
+- [SlideNote](https://github.com/app-memomind/SlideNote/releases)
+  - Role: Lead Developer
 
 
 
