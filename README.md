@@ -23,6 +23,8 @@
 - Role: Co-founder, Researcher, Lead Developer
 
 ## 🚀 Products
+- [vwa-buddy](https://vwa-buddy.memomind.cn/)
+  - Role: Lead Developer
 - [text2music](https://app.memomind.cn/text2music/)
   - Role: Researcher & Lead Developer
 - [TrendFlow - Research Trend Analysis](https://huggingface.co/spaces/Adapting/TrendFlow)
