@@ -36,5 +36,6 @@
 - [SlideNote](https://github.com/app-memomind/SlideNote/releases)
   - Role: Lead Developer
 
-
+## Support Me!
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C8P6MO6)
 
