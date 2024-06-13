@@ -2,7 +2,7 @@
 
 - 🌱 B.Sc. and M.Sc. CS at [TUM](https://www.tum.de/).
 - 🔭 I’m interested in research of conversational-AI, multimodality.
-- 📫 How to reach me: [Email](mailto:tao.xiang@tum.de) or [Homepage](https://leoxiang66.github.io/).
+- 📫 How to reach me: [Email](mailto:niemalsaufgeben@yeah.net) or [Homepage](https://leoxiang66.github.io/).
 - ⚡ Fun fact: Loving music, animation, and sports.
 
 ## 📊 GitHub Stats
@@ -35,6 +35,10 @@
   - Role: Lead Developer
 - [SlideNote](https://github.com/app-memomind/SlideNote/releases)
   - Role: Lead Developer
+- [大数据知识图谱服务平台](https://big-data-discipline-kg.memomind.cn/)
+  - Role: Lead Developer
+- [Memochat](https://memochat.memomind.cn/)
+  - Role: Lead Developer  
 
 ## Support Me!
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C8P6MO6)
