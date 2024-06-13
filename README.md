@@ -38,7 +38,8 @@
 - [大数据知识图谱服务平台](https://big-data-discipline-kg.memomind.cn/)
   - Role: Lead Developer
 - [Memochat](https://memochat.memomind.cn/)
-  - Role: Lead Developer  
+  - Role: Lead Developer
+- [Hong Kong CS Research All](https://github.com/leoxiang66/HKCSR/releases)
 
 ## Support Me!
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C8P6MO6)
