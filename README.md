@@ -1,6 +1,5 @@
 # Hi there 👋 I'm Tao Xiang.
 
-- 🌱 B.Sc. and M.Sc. CS at [TUM](https://www.tum.de/).
 - 🔭 Engineer at HKCLR.
 - 📫 How to reach me: [Email](mailto:niemalsaufgeben@yeah.net) or [Homepage](https://leoxiang66.github.io/).
 - ⚡ Fun fact: Loving music, animation, and sports.
