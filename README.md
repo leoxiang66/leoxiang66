@@ -42,7 +42,5 @@
 ## Support Me!
 <a href="https://github.com/sponsors/leoxiang66"> <img src = "https://raw.githubusercontent.com/leoxiang66/leoxiang66/refs/heads/main/sponsor.png"> </img> </a>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C8P6MO6)
-
 <a href="https://sponsorme.memomind.cn/"><img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt=""></img></a>
 
