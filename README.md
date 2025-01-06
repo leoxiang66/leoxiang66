@@ -8,7 +8,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=leoxiang66&count_private=true&show_icons=true&layout=compact&rank_icon=github&include_all_commits=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoxiang66&hide=HTML,jupyter%20notebook,vue,tex,PostScript,GLSL,dockerfile,svelte,TypeScript,makefile,powershell,CSS,cmake&langs_count=20" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoxiang66&hide=HTML,jupyter%20notebook,vue,tex,PostScript,GLSL,dockerfile,svelte,TypeScript,shell,rescript,makefile,powershell,CSS,cmake&langs_count=20" />
 
 <!-- ## Visitors
 
