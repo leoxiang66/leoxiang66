@@ -23,21 +23,12 @@
 
 
 ## 🚀 Products
-- [vwa-buddy](https://vwa-buddy.memomind.cn/)
-  - Role: Lead Developer
 - [TrendFlow - Research Trend Analysis](https://huggingface.co/spaces/Adapting/TrendFlow)
   - Role: Researcher & Lead Developer
 - [PEER - PAPER EVALUATION AND EMPOWERMENT RESOURCE](https://github.com/Kasneci-Lab/AI-assisted-writing)
   - Role: Co-developer
-- [ChatPPT - Chat with Any Slide](https://chatppt.memomind.cn/)
-  - Role: Lead Developer
-- [SlideNote](https://github.com/app-memomind/SlideNote/releases)
-  - Role: Lead Developer
 - [大数据知识图谱服务平台](https://big-data-discipline-kg.memomind.cn/)
   - Role: Lead Developer
-- [Memochat](https://memochat.memomind.cn/)
-  - Role: Lead Developer
-- [Hong Kong CS Research All](https://github.com/leoxiang66/HKCSR/releases)
 
 ## Support Me!
 <a href="https://github.com/sponsors/leoxiang66"> <img src = "https://raw.githubusercontent.com/leoxiang66/leoxiang66/refs/heads/main/sponsor.png"> </img> </a>
