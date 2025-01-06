@@ -31,7 +31,6 @@
   - Role: Lead Developer
 
 ## Support Me!
-<a href="https://github.com/sponsors/leoxiang66"> <img src = "https://raw.githubusercontent.com/leoxiang66/leoxiang66/refs/heads/main/sponsor.png"> </img> </a>
-
-<a href="https://sponsorme.memomind.cn/"><img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt=""></img></a>
+- [Support me on Github Sponsor](https://github.com/sponsors/leoxiang66)
+- [Support me with Wechat or Alipay](https://sponsorme.memomind.cn/)
 
