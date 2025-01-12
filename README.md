@@ -30,7 +30,7 @@
 - [大数据知识图谱服务平台](https://big-data-discipline-kg.memomind.cn/)
   - Role: Lead Developer
 
-## Support Me!
+## ❤️ Support Me!
 - [Support me on Github Sponsor](https://github.com/sponsors/leoxiang66)
 - [Support me with Wechat or Alipay](https://sponsorme.memomind.cn/)
 
