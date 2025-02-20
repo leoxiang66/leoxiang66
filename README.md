@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Leon.
 
-- 🔭 Engineer at HKCLR.
-- 📫 How to reach me: [Email](mailto:niemalsaufgeben@yeah.net) or [Homepage](https://leoxiang66.github.io/).
-- ⚡ Fun fact: Loving music, animation, and sports.
+- Robotics Engineer at HKCLR.
+- Based in Hong Kong SAR.
+- Contact: [Email](mailto:niemalsaufgeben@yeah.net) or [Homepage](https://leoxiang66.github.io/).
 
 ## 📊 GitHub Stats
 
