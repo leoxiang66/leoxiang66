@@ -27,7 +27,7 @@
 
 
 
-## 🚀 Products
+## 🚀 Softwares
 - [TrendFlow - Research Trend Analysis](https://huggingface.co/spaces/Adapting/TrendFlow)
   - Role: Researcher & Lead Developer
 - [PEER - PAPER EVALUATION AND EMPOWERMENT RESOURCE](https://github.com/Kasneci-Lab/AI-assisted-writing)
