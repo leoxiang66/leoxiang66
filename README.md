@@ -13,7 +13,7 @@
 
 <img src="https://github-readme-stats-i270cdk5i-florianbussmann.vercel.app/api/top-langs/?username=leoxiang66&custom_title=Top%20languages%20including%20forks&layout=compact&theme=&include_forks=true&hide=HTML,jupyter%20notebook,vue,tex,PostScript,GLSL,dockerfile,svelte,java,TypeScript,shell,rescript,makefile,Cuda,powershell,CSS,SCSS,cmake&langs_count=5,customized-unix-terminal,github-readme-stats" />
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leoxiang66&layout=compact&custom_title=Language%20usage%20since%202025&hide=HTML,jupyter%20notebook,vue,tex,PostScript,GLSL,dockerfile,svelte,java,TypeScript,shell,rescript,makefile,Cuda,powershell,CSS,SCSS,cmake,markdown,bash,text,json,xml,git%20config)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leoxiang66&layout=compact&custom_title=Language%20usage%20since%202025&hide=HTML,jupyter%20notebook,vue,tex,PostScript,GLSL,dockerfile,TypeScript,shell,rescript,makefile,Cuda,powershell,CSS,SCSS,cmake,markdown,bash,text,json,xml,git%20config)
 
 <!-- ## Visitors
 
