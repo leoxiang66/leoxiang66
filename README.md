@@ -41,12 +41,10 @@
 
 
 ## 🚀 Softwares
+- [Dingo - Docker Desktop](https://github.com/leoxiang66/Dingo-Application)
 - [TrendFlow - Research Trend Analysis](https://huggingface.co/spaces/Adapting/TrendFlow)
-  - Role: Researcher & Lead Developer
 - [PEER - PAPER EVALUATION AND EMPOWERMENT RESOURCE](https://github.com/Kasneci-Lab/AI-assisted-writing)
-  - Role: Co-developer
 - [大数据知识图谱服务平台](https://big-data-discipline-kg.memomind.cn/)
-  - Role: Lead Developer
 
 ## ❤️ Support Me!
 - [Support me on Github Sponsor](https://github.com/sponsors/leoxiang66)
