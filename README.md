@@ -15,6 +15,11 @@
 
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leoxiang66&layout=compact&custom_title=Languages%20since%202025&hide=HTML,jupyter%20notebook,NSIS,vue,tex,PostScript,GLSL,dockerfile,TypeScript,shell,rescript,makefile,Cuda,powershell,CSS,SCSS,cmake,markdown,bash,text,json,xml,git%20config)
 
+
+
+<img src="https://wakatime.com/share/@leoxiang66/2373bfbd-779c-4fe8-9092-1b12b0c7fef8.svg" width=70%/>
+
+
 <!-- ## Visitors
 
 <img src="https://profile-counter.glitch.me/leoxiang66/count.svg" /> -->
