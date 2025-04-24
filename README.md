@@ -2,7 +2,7 @@
 
 - Robotics Engineer at HKCLR.
 - Based in Hong Kong SAR.
-- Contact: [Email](mailto:niemalsaufgeben@yeah.net) or [Homepage](https://leonxiang.memomind.cn/).
+- Contact: [Email](mailto:niemalsaufgeben@yeah.net).
 
 ## 📊 GitHub Stats
 
