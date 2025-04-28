@@ -42,6 +42,7 @@
 
 ## 🚀 Softwares
 - [Dingo - Docker Desktop](https://github.com/leoxiang66/Dingo-Application)
+- [Latex Tool](https://github.com/leoxiang66/Latex-Tool-App)
 - [TrendFlow - Research Trend Analysis](https://huggingface.co/spaces/Adapting/TrendFlow)
 - [PEER - PAPER EVALUATION AND EMPOWERMENT RESOURCE](https://github.com/Kasneci-Lab/AI-assisted-writing)
 - [大数据知识图谱服务平台](https://big-data-discipline-kg.memomind.cn/)
