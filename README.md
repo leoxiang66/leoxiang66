@@ -25,6 +25,8 @@
 
 <img src="https://wakatime.com/share/@leoxiang66/35184784-ceae-43bf-b3f4-9347e9548f88.svg" width=70%/>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/leoxiang66?theme=light&font=IBM%20Plex%20Sans%20Arabic&ext=activity)
+
 
 
 
