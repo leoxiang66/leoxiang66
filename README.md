@@ -4,7 +4,14 @@
 - Based in Hong Kong SAR.
 - Contact: [Email](mailto:niemalsaufgeben@yeah.net).
 
-[![wakatime](https://wakatime.com/badge/user/8c7864c1-c5f9-4d6b-a254-e2ffc3179438.svg)](https://wakatime.com/@8c7864c1-c5f9-4d6b-a254-e2ffc3179438) 
+[![wakatime](https://wakatime.com/badge/user/8c7864c1-c5f9-4d6b-a254-e2ffc3179438.svg)](https://wakatime.com/@8c7864c1-c5f9-4d6b-a254-e2ffc3179438) ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=leoxiang66.leoxiang66)
+
+
+![trophy](https://github-profile-trophy.vercel.app/?username=leoxiang66&theme=onedark)
+
+
+
+
 
 ## 📊 GitHub Stats
 
@@ -18,15 +25,20 @@
 <!--  -->
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leoxiang66&layout=compact&custom_title=Languages%20Last%20Year&hide=HTML,jupyter%20notebook,Desktop%20File,NSIS,vue,tex,PostScript,YAML,GLSL,dockerfile,TypeScript,shell,rescript,makefile,Cuda,powershell,CSS,SCSS,cmake,markdown,bash,text,json,xml,git%20config)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leoxiang66)
 
 
-<img src="https://wakatime.com/share/@leoxiang66/2373bfbd-779c-4fe8-9092-1b12b0c7fef8.svg" width=70%/>
+
+
+
 
 <br>
 <br>
 
 <!--
 <img src="https://wakatime.com/share/@leoxiang66/35184784-ceae-43bf-b3f4-9347e9548f88.svg" width=70%/>
+
+<img src="https://wakatime.com/share/@leoxiang66/2373bfbd-779c-4fe8-9092-1b12b0c7fef8.svg" width=70%/>
 -->
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/leoxiang66?theme=light&font=IBM%20Plex%20Sans%20Arabic&ext=activity)
