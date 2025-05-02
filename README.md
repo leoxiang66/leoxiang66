@@ -13,8 +13,8 @@
 
 <img src="https://github-readme-stats-i270cdk5i-florianbussmann.vercel.app/api/top-langs/?username=leoxiang66&custom_title=Overall%20languages%20including%20forks&layout=compact&theme=&include_forks=true&hide=HTML,jupyter%20notebook,NSIS,vue,tex,PostScript,GLSL,dockerfile,svelte,java,TypeScript,shell,rescript,makefile,Cuda,powershell,CSS,SCSS,cmake&langs_count=5,customized-unix-terminal,github-readme-stats" />
 
-<!--
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leoxiang66&layout=compact&custom_title=Languages%20since%202025&hide=HTML,jupyter%20notebook,NSIS,vue,tex,PostScript,GLSL,dockerfile,TypeScript,shell,rescript,makefile,Cuda,powershell,CSS,SCSS,cmake,markdown,bash,text,json,xml,git%20config) -->
+<!--  -->
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leoxiang66&layout=compact&custom_title=Languages%20Last%20Year&hide=HTML,jupyter%20notebook,Desktop%20File,NSIS,vue,tex,PostScript,YAML,GLSL,dockerfile,TypeScript,shell,rescript,makefile,Cuda,powershell,CSS,SCSS,cmake,markdown,bash,text,json,xml,git%20config)
 
 
 
@@ -23,7 +23,9 @@
 <br>
 <br>
 
+<!--
 <img src="https://wakatime.com/share/@leoxiang66/35184784-ceae-43bf-b3f4-9347e9548f88.svg" width=70%/>
+-->
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/leoxiang66?theme=light&font=IBM%20Plex%20Sans%20Arabic&ext=activity)
 
