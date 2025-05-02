@@ -4,6 +4,8 @@
 - Based in Hong Kong SAR.
 - Contact: [Email](mailto:niemalsaufgeben@yeah.net).
 
+[![wakatime](https://wakatime.com/badge/user/8c7864c1-c5f9-4d6b-a254-e2ffc3179438.svg)](https://wakatime.com/@8c7864c1-c5f9-4d6b-a254-e2ffc3179438) 
+
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=leoxiang66&count_private=true&show_icons=true&layout=compact&rank_icon=github&include_all_commits=true" />
