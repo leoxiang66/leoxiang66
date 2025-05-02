@@ -6,7 +6,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/8c7864c1-c5f9-4d6b-a254-e2ffc3179438.svg)](https://wakatime.com/@8c7864c1-c5f9-4d6b-a254-e2ffc3179438)  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=leoxiang66.leoxiang66)
 
-<img src="https://skillicons.dev/icons?i=go,python,cpp,c,js,ts,react,svelte,astro,pytorch,dart,flutter,tailwindcss,java,nodejs,clion,vscode,discord,anaconda,docker,electron,ai,github,gmail,linkedin,instagram,linux,latex,notion,npm,ubuntu,webstorm,vite,windows,sqlite" />
+<img src="https://skillicons.dev/icons?i=go,rust,python,cpp,c,js,ts,react,svelte,astro,pytorch,dart,flutter,tailwindcss,java,nodejs,clion,vscode,discord,anaconda,docker,electron,ai,github,gmail,linkedin,instagram,linux,latex,notion,npm,ubuntu,webstorm,vite,windows,sqlite" />
 
 
 
