@@ -62,6 +62,7 @@
 
 
 ## 🚀 Softwares
+- [LoConn](https://github.com/leoxiang66/golan)
 - [Dingo - Docker Desktop](https://github.com/leoxiang66/Dingo-Application)
 - [Latex Tool](https://github.com/leoxiang66/Latex-Tool-App)
 - [TrendFlow - Research Trend Analysis](https://huggingface.co/spaces/Adapting/TrendFlow)
