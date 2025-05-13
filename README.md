@@ -1,6 +1,5 @@
 # Hi there 👋 I'm Leon.
 
-- Robotics Engineer at HKCLR.
 - Based in Hong Kong SAR.
 - Contact: [Email](mailto:niemalsaufgeben@yeah.net).
 
