@@ -42,7 +42,7 @@
 <img src="https://wakatime.com/share/@leoxiang66/2373bfbd-779c-4fe8-9092-1b12b0c7fef8.svg" width=70%/>
 -->
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/leoxiang66?theme=light&font=IBM%20Plex%20Sans%20Arabic)
+![LeetCode Stats](https://leetcard.jacoblin.cool/leoxiang66?theme=light&font=IBM%20Plex%20Sans%20Arabic&ext=activity)
 
 
 
