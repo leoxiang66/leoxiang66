@@ -1,6 +1,5 @@
 # Hi there 👋 I'm Leon.
 
-- Based in Hong Kong SAR.
 - Contact: [Email](mailto:niemalsaufgeben@yeah.net).
 
 [![wakatime](https://wakatime.com/badge/user/8c7864c1-c5f9-4d6b-a254-e2ffc3179438.svg)](https://wakatime.com/@8c7864c1-c5f9-4d6b-a254-e2ffc3179438)  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=leoxiang66.leoxiang66)
