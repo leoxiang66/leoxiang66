@@ -73,7 +73,5 @@
 
 ## 📢 News
 - 2025.05.09: Introducing [LoConn](https://dev.to/leon-heung/introducing-loconn-local-area-network-chatting-app-written-in-go-8f6): local area network chatting app written in Go
-- 2025.04.24: I released my study notes of the course Introduction to Deep Learning at TUM (IN2346): [link](https://deep-learning-k9to.onrender.com/)
-- 2025.04.23: I released my study notes of Pytorch Tutorial at TUM: [link](https://leonxiang.memomind.cn/pytorch_tutorial.html)
-- 2025.04.23: I released my study notes of the course Advanced Natural Language Processing (CIT4230002) at TUM: [PDF](https://tao-xiang.memomind.cn/notes/Advanced_NLP.pdf)
+- check more at [Leon's Moments](https://moments.memomind.cn/)
 
