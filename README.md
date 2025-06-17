@@ -72,6 +72,5 @@
 - [Support me with Wechat or Alipay](https://sponsorme.memomind.cn/)
 
 ## 📢 News
-- 2025.05.09: Introducing [LoConn](https://dev.to/leon-heung/introducing-loconn-local-area-network-chatting-app-written-in-go-8f6): local area network chatting app written in Go
 - check more at [Leon's Moments](https://moments.memomind.cn/)
 
