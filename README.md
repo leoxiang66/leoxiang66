@@ -26,6 +26,8 @@
 <!--  -->
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leoxiang66&layout=compact&custom_title=Languages&hide=HTML,jupyter%20notebook,Desktop%20File,NSIS,vue,tex,PostScript,YAML,GLSL,dockerfile,shell,rescript,makefile,Cuda,powershell,CSS,SCSS,cmake,markdown,bash,text,json,xml,git%20config)
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@leoxiang66/a34f2f34-1914-4039-a5f7-266c5dd52be9.png" /></a>
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leoxiang66)
 
 
@@ -42,7 +44,7 @@
 <img src="https://wakatime.com/share/@leoxiang66/2373bfbd-779c-4fe8-9092-1b12b0c7fef8.svg" width=70%/>
 -->
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/leoxiang66?theme=light&font=IBM%20Plex%20Sans%20Arabic&ext=activity)
+<!--![LeetCode Stats](https://leetcard.jacoblin.cool/leoxiang66?theme=light&font=IBM%20Plex%20Sans%20Arabic&ext=activity) -->
 
 
 
